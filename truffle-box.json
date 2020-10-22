@@ -2,6 +2,7 @@
     "ignore": [
       "README.md",
       ".gitignore",
+      "package.json",
       "box-img-sm-.png",
       "box-img-lg.png"
     ],
