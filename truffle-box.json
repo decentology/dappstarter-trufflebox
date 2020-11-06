@@ -3,13 +3,11 @@
       "README.md",
       ".gitignore",
       "package.json",
-      "box-img-sm-.png",
+      "box-img-sm.png",
       "box-img-lg.png"
     ],
     "commands": {
-      "Compile contracts": "truffle compile",
-      "Migrate contracts": "truffle migrate",
-      "Test contracts": "truffle test"
+      "Launch Development": "yarn start"
     },
     "hooks": {
       "post-unpack": "npx @decentology/dappstarter create -c https://raw.githubusercontent.com/decentology/dappstarter-recipes/main/eth_kitchen_sink.json"

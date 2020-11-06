@@ -17,4 +17,4 @@ All components are wired together and update for you out of the box for an end t
 ## Install
 To get started simply run
 
-```npx truffle unbox https://github.com/decentology/dappstarter-trufflebox```
+```npx truffle unbox decentology/dappstarter-trufflebox```
